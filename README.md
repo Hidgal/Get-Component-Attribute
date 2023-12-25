@@ -5,6 +5,8 @@ Attribute for auto-attach components in serialized fields. Searches for componen
 
 All attachments are made in the editor, no logic in runtime.
 
+!!! It attaches components in empty fields only! If field was already filled, it won't do anything !!!
+
 Supports multi-object editing.
 
 
