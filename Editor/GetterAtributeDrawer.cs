@@ -1,9 +1,9 @@
 using GetAttribute.Helpers;
 using System.Collections.Generic;
-using UnityEditor;
 using UnityEngine;
+using UnityEditor;
 
-namespace GetAttribute
+namespace GetAttribute.Editor
 {
     public abstract class GetterAtributeDrawer : PropertyDrawer
     {

@@ -1,6 +1,6 @@
 {
   "name": "com.hidgal.get.attribute",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Get Component Attribute",
   "description": "Attribute for auto-attach components in serialized fields.",
   "unity": "2018.1",
