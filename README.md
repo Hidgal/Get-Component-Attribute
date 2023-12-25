@@ -1,4 +1,4 @@
-<img src="Documentation/get_attribute.gif?raw=true" alt="Add Attribute Example" width="948px" height="253px"/>
+<img src="Documentation/get_attribute.gif?raw=true" alt="Add Attribute Example" width="1580px" height="421px"/>
 
 # Get Component Attribute
 Attribute for auto-attach components in serialized fields. Searches for component of field type.
