@@ -1,4 +1,4 @@
-<img src="Documentation/get_attribute.gif?raw=true" alt="Add Attribute Example" width="1580px" height="421px"/>
+<img src="Documentation/get_attribute.gif?raw=true" alt="Add Attribute Example" width="1027px" height="273px"/>
 
 # Get Component Attribute
 Attribute for auto-attach components in serialized fields. Searches for component of field type.
@@ -31,6 +31,8 @@ https://github.com/Hidgal/Get-Component-Attribute.git
 
 ## How To Use
 Just add one of available attributes to the serialized field and open it`s inspector.
+
+
 ```c#
 using GetAttribute;
 
