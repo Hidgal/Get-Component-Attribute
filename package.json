@@ -1,0 +1,18 @@
+{
+  "name": "com.hidgal.get.attribute",
+  "version": "1.0.0",
+  "displayName": "Get Component Attribute",
+  "description": "Attribute for auto-attach components in serialized fields.",
+  "unity": "2018.1",
+  "unityRelease": "1f1",
+  "keywords": [
+    "utils",
+    "attribute",
+    "get"
+  ],
+  "author": {
+    "name": "Hidgal",
+    "email": "hidgal.games@gmail.com",
+    "url": ""
+  }
+}

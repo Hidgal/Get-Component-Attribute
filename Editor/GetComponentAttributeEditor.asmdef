@@ -1,0 +1,16 @@
+{
+    "name": "GetComponentAttributeEdtior",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7f8c23d805ecbd04eaeb34457708fc28"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
