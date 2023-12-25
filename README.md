@@ -32,7 +32,7 @@ https://github.com/Hidgal/Get-Component-Attribute.git
 ## How To Use
 Just add one of available attributes to the serialized field and open it`s inspector.
 
-
+Example:
 ```c#
 using GetAttribute;
 
