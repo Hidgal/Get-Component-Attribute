@@ -1,10 +1,12 @@
 {
-    "name": "GetComponentAttributeEdtior",
+    "name": "GetComponentAttribute.Editor",
     "rootNamespace": "",
     "references": [
         "GUID:7f8c23d805ecbd04eaeb34457708fc28"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
